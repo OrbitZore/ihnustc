@@ -1,0 +1,8 @@
+build/
+arm/build/
+dep/
+config/config.ini
+# MacOS Cache
+.DS_Store
+
+
